@@ -29,19 +29,27 @@ This library was developed as part of a Teknofest-oriented computer vision proje
 Below are the available crosshair styles.  
 You can preview them here, then run `test.py` locally to experiment and integrate them into your own project.
 
-| Style Name | Preview |
-| :--------- | :-----: |
-| **Classic** | <img src="assets/classic_crosshair.png" width="150"> |
-| **Center Dot** | <img src="assets/center_dot_crosshair.png" width="150"> |
-| **Gap Cross** | <img src="assets/gap_crosshair.png" width="150"> |
-| **Dot-Dash** | <img src="assets/dot_dash_crosshair.png" width="150"> |
-| **Dotted** | <img src="assets/dotted_crosshair.png" width="150"> |
-| **X Cross** | <img src="assets/x_crosshair.png" width="150"> |
-| **Gap X Cross** | <img src="assets/gap_x_crosshair.png" width="150"> |
-| **Tactical X** | <img src="assets/tactical_x_crosshair.png" width="150"> |
-| **Circle Cross** | <img src="assets/circle_crosshair.png" width="150"> |
-| **T-Shape** | <img src="assets/T_shape_crosshair.png" width="150"> |
-| **Chevron** | <img src="assets/chevron_crosshair.png" width="150"> |
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td width="33%"><strong>Classic</strong><br><img src="assets/classic_crosshair.png" width="180"></td>
+    <td width="33%"><strong>Center Dot</strong><br><img src="assets/center_dot_crosshair.png" width="180"></td>
+    <td width="33%"><strong>Gap Cross</strong><br><img src="assets/gap_crosshair.png" width="180"></td>
+  </tr>
+  <tr>
+    <td width="33%"><strong>Dot-Dash</strong><br><img src="assets/dot_dash_crosshair.png" width="180"></td>
+    <td width="33%"><strong>Dotted</strong><br><img src="assets/dotted_crosshair.png" width="180"></td>
+    <td width="33%"><strong>X Cross</strong><br><img src="assets/x_crosshair.png" width="180"></td>
+  </tr>
+  <tr>
+    <td width="33%"><strong>Gap X Cross</strong><br><img src="assets/gap_x_crosshair.png" width="180"></td>
+    <td width="33%"><strong>Tactical X</strong><br><img src="assets/tactical_x_crosshair.png" width="180"></td>
+    <td width="33%"><strong>Circle Cross</strong><br><img src="assets/circle_crosshair.png" width="180"></td>
+  </tr>
+  <tr>
+    <td width="33%"><strong>T-Shape</strong><br><img src="assets/T_shape_crosshair.png" width="180"></td>
+    <td width="33%"><strong>Chevron</strong><br><img src="assets/chevron_crosshair.png" width="180"></td>
+    <td width="33%"></td> </tr>
+</table>
 
 ---
 
