@@ -117,3 +117,8 @@ Simply import the desired module and draw on your frame before display.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Author
+**Fatih Şahinoğlu** - [GitHub](https://github.com/Fatih-Sahinoglu) | [LinkedIn](https://www.linkedin.com/in/fatih-şahinoğlu/)
