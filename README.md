@@ -1,4 +1,4 @@
-# OpenCV Crosshair Library
+# OpenCV Crosshair Toolkit
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)](https://opencv.org/)
